@@ -214,6 +214,7 @@ A curated list of the best tech-friendly job boards across Europe for developers
 
 Job boards covering multiple European countries with strong tech listings.
 
+- [EuroJobs.ai](https://eurojobs.ai) - 28,000+ IT jobs across Europe aggregated hourly from 21,000 employers' own job boards (Greenhouse, Lever, Ashby, Workable and others). Filters for country, remote, visa sponsorship and English-speaking teams. Includes free AI CV and cover-letter tailoring.
 - [EuropeRemotely](https://europeremotely.com) - Remote jobs specifically for European time zones.
 - [EU Startups Jobs](https://jobboard.eu-startups.com) - Jobs at Europe's fastest-growing startups.
 - [Job Fluent](https://www.jobfluent.com) - Tech and digital jobs across Europe.
