@@ -218,6 +218,7 @@ Job boards covering multiple European countries with strong tech listings.
 - [EU Startups Jobs](https://jobboard.eu-startups.com) - Jobs at Europe's fastest-growing startups.
 - [Job Fluent](https://www.jobfluent.com) - Tech and digital jobs across Europe.
 - [Relocate.me](https://relocate.me) - Jobs with relocation packages across Europe and beyond, very tech-heavy.
+- [Jaabz](https://jaabz.com) - Tech jobs with visa sponsorship, relocation packages, and remote filters.
 - [Jobbatical](https://jobbatical.com) - International tech and startup jobs with relocation support.
 - [Qreer](https://www.qreer.com) - European technical and engineering job board.
 - [TechMeAbroad](https://techmeabroad.com) - Tech jobs with visa and relocation support across Europe.
